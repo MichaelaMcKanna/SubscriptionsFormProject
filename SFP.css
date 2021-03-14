@@ -1,0 +1,39 @@
+body{
+    background-color: hsl(0, 0%, 50%);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+header{    
+    height: 150px;
+}
+header, table {
+    background-color: darkgray; 
+}
+.subs img{
+    width: 75%;
+    margin: 0 20px;
+}
+
+h1{
+    text-align: center;
+    padding-top: 40px;
+    font-size: 50px;
+}
+
+table, th, tr, td {
+    border: 3px solid black;
+    border-collapse: collapse;
+    font-size: 20px;
+}
+table{
+    width: 75%;
+    margin: 10px auto;
+
+}
+th, tr, td {
+    padding: 10px;
+    width: 30px;
+    text-align: center;
+}
+.general{
+    
+}
